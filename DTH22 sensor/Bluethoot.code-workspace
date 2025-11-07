@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../Bluethoot"
+		},
+		{
+			"name": "DTH22 sensor",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
