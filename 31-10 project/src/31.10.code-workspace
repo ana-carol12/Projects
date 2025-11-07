@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "31.10",
+			"path": "../../../../31.10"
+		},
+		{
+			"name": "31-10 project",
+			"path": ".."
+		},
+		{
+			"name": "Bluethoot",
+			"path": "../../Bluethoot"
+		}
+	],
+	"settings": {}
+}
